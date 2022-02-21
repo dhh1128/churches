@@ -1,6 +1,6 @@
-# topic-name
+# churches
 
-Question: *What, exactly, is meant by the scriptural phrase "___ ___ ___"?*
+Question: *How do Book of Mormon writers use the word "churches" &mdash; and how should this color our understanding of descriptions of the last days?*
 
 * [scripture references](scriptures.md)
 * [prophetic teachings](teachings.md)
