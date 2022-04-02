@@ -5,6 +5,23 @@
     <th>source</th><th>quote</th><th>notes</th>
 </tr>
 <tr>
+<td>
+<a href="">Morm 8:28, 32-33, 36-38, 40</a></td>
+<td><p>28 Yea, it shall come in a day when the power of God shall be denied, and churches become defiled and be lifted up in the pride of their hearts; yea, even in a day when leaders of churches and teachers shall rise in the pride of their hearts, even to the envying of them who belong to their churches.</p>
+<p>32 Yea, it shall come in a day when there shall be churches built up that shall say: Come unto me, and for your money you shall be forgiven of your sins.</p>
+<p>33 O ye wicked and perverse and stiffnecked people, why have ye built up churches unto yourselves to get gain? Why have ye transfigured the holy word of God, that ye might bring damnation upon your souls? Behold, look ye unto the revelations of God; for behold, the time cometh at that day when all these things must be fulfilled.</p>
+<p>36 And I know that ye do walk in the pride of your hearts; and there are none save a few only who do not lift themselves up in the pride of their hearts, unto the wearing of very fine apparel, unto envying, and strifes, and malice, and persecutions, and all manner of iniquities; and your churches, yea, even every one, have become polluted because of the pride of your hearts.</p>
+<p>37 For behold, ye do love money, and your substance, and your fine apparel, and the adorning of your churches, more than ye love the poor and the needy, the sick and the afflicted.</p>
+<p>38 O ye pollutions, ye hypocrites, ye teachers, who sell yourselves for that which will canker, why have ye polluted the holy church of God? Why are ye ashamed to take upon you the name of Christ? Why do ye not think that greater is the value of an endless happiness than that misery which never dies—because of the praise of the world?</p>
+<p>40 Yea, why do ye build up your secret abominations to get gain, and cause that widows should mourn before the Lord, and also orphans to mourn before the Lord, and also the blood of their fathers and their husbands to cry unto the Lord from the ground, for vengeance upon your heads?</p>
+</td>
+<td><p>Intriguing that "churches become defiled." To defile something, <a href="https://www.vocabulary.com/dictionary/defile">it must first be pure or holy</a>.</p>
+<p>Also interesting that churches will "be lifted up in the pride of their hearts." Normally I would think this is possible for individuals, not for churches. Certainly, Moroni can't be talking here about physical buildings, but about the nature of the motives and attitudes of an abstract institution. Very next sentence talks about leaders being proud and envying. My first read of this was that they envy each other for the members they have -- but actually, what this says is that the leaders are characterized by "envying of them that belong". Does this mean they envy the members, or envy other churches because of their members? To me, leaders who envy those who belong sounds like corrupt politicians who look at polling data and try to manipulate voters. It may also refer to televangelists and media figures in general (counting Twitter followers) and the rise of tribes.
+</p>
+<p>Note reference to churches "built up to get gain" is followed in verse 40 by "secret abominations built up to get gain". Does this equate churches that have this characteristic with secret abominations? That might make churches like drug cartels, for example.</p>
+</td>
+</tr>
+<tr>
 <td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/4.26?lang=eng#p25">1 Ne 4:26</a></td>
 <td>And he, supposing that I spake of the brethren of the church, and that I was truly that Laban whom I had slain, wherefore he did follow me.</td>
 <td>The concept of a "church" was applied by Nephi to a religious association among the Jews. Not all Jews belonged to it, apparently.</td>
