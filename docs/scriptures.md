@@ -19,7 +19,21 @@
 <p>Also interesting that churches will "be lifted up in the pride of their hearts." Normally I would think this is possible for individuals, not for churches. Certainly, Moroni can't be talking here about physical buildings, but about the nature of the motives and attitudes of an abstract institution. Very next sentence talks about leaders being proud and envying. My first read of this was that they envy each other for the members they have -- but actually, what this says is that the leaders are characterized by "envying of them that belong". Does this mean they envy the members, or envy other churches because of their members? To me, leaders who envy those who belong sounds like corrupt politicians who look at polling data and try to manipulate voters. It may also refer to televangelists and media figures in general (counting Twitter followers) and the rise of tribes.
 </p>
 <p>Note reference to churches "built up to get gain" is followed in verse 40 by "secret abominations built up to get gain". Does this equate churches that have this characteristic with secret abominations? That might make churches like drug cartels, for example.</p>
+<p>The phrase "holy church of God" feels to me like it is in a different conceptual category from the churches Moroni highlights elsewhere. It may refer to the woman who went into the wilderness (Rev 12), which consists of all those who follow Jesus sincerely, no matter what institutions they belong to.</p>
+<p>Note that teachers, not just church leaders, are condemned for pride and envy in verse 28. This makes the mapping to educational institutions more resonant.</p>
+<p>I think the phrase "get gain" in verse 33 is more than simply "make a financial profit." It may have a meaning closer to the modern English phrase "get ahead," which touches on wealth but emphasizes competitiveness and self-aggrandizement. Look at Hel 7:21: "But behold, it is to get gain, to be praised of men, yea, and that ye might get gold and silver." The first expansion of the phrase is about personal pride; wealth is added as a secondary consideration in Nephi's critique.</p>
 </td>
+</tr>
+<tr>
+<td>
+D&C 10:67-69
+</td>
+<td>67 Behold, this is my doctrine—whosoever repenteth and cometh unto me, the same is my church.
+
+68 Whosoever declareth more or less than this, the same is not of me, but is against me; therefore he is not of my church.
+
+69 And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them.</td>
+<td>Jesus gives his own definition of "church."</td>
 </tr>
 <tr>
 <td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/4.26?lang=eng#p25">1 Ne 4:26</a></td>
