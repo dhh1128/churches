@@ -4,9 +4,30 @@
 <tr>
     <th>source</th><th>quote</th><th>notes</th>
 </tr>
+
+<tr>
+    <td>
+    <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.20-21,29-31?lang=eng#p19">2 Ne 26:20-21, 29-31</a>
+    </td>
+    <td>
+    <p>20 And the Gentiles are lifted up in the pride of their eyes, and have stumbled, because of the greatness of their stumbling block, that they have built up many churches; nevertheless, they put down the power and miracles of God, and preach up unto themselves their own wisdom and their own learning, that they may get gain and grind upon the face of the poor.</p>
+    <p>21 And there are many churches built up which cause envyings, and strifes, and malice.</p>
+    <p>29 He commandeth that there shall be no priestcrafts; for, behold, priestcrafts are that men preach and set themselves up for a light unto the world, that they may get gain and praise of the world; but they seek not the welfare of Zion.</p>
+    </td>
+    <td><p>Here, Nephi is talking about churches that specifically exhibit the trait of priestcraft, which he defines as men setting themselves up as priests, leading with their own wisdom, seeking praise and money. If the men are priests, what is their god? The money and praise are; this is the idol they worship. The word "stumblingblock" is cross-referenced in our edition of <cite>The Book of Mormon</cite> to <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/14.3-7?lang=eng#p2">Ezek 14:3-7</a>. Ezekiel was a contemporary of Nephi (began prophesying between 597 and 590 BC), and the two may even have known each other. He remained in Jerusalem through the destruction that Nephi escaped. He said:</p>
+    <blockquote>
+    <p>3 Son of man, these men have set up their idols in their heart, and put the stumblingblock of their iniquity before their face: should I be inquired of at all by them?</p>
+    <p>4 Therefore speak unto them, and say unto them, Thus saith the Lord God; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to the prophet; I the Lord will answer him that cometh according to the multitude of his idols;</p>
+    <p>5 That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.</p>
+    <p>6 Therefore say unto the house of Israel, Thus saith the Lord God; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations.</p>
+    <p>7 For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to inquire of him concerning me; I the Lord will answer him by myself:</p>
+    </blockquote>
+    </td>
+</tr>
 <tr>
 <td>
-<a href="">Morm 8:28, 32-33, 36-38, 40</a></td>
+<a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/8.28,32-33,36-38,40?lang=eng#p27">Morm 8:28, 32-33, 36-38, 40</a>
+</td>
 <td><p>28 Yea, it shall come in a day when the power of God shall be denied, and churches become defiled and be lifted up in the pride of their hearts; yea, even in a day when leaders of churches and teachers shall rise in the pride of their hearts, even to the envying of them who belong to their churches.</p>
 <p>32 Yea, it shall come in a day when there shall be churches built up that shall say: Come unto me, and for your money you shall be forgiven of your sins.</p>
 <p>33 O ye wicked and perverse and stiffnecked people, why have ye built up churches unto yourselves to get gain? Why have ye transfigured the holy word of God, that ye might bring damnation upon your souls? Behold, look ye unto the revelations of God; for behold, the time cometh at that day when all these things must be fulfilled.</p>
@@ -26,13 +47,11 @@
 </tr>
 <tr>
 <td>
-D&C 10:67-69
+<a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10.67-69?lang=eng#p66">D&C 10:67-69</a>
 </td>
-<td>67 Behold, this is my doctrine—whosoever repenteth and cometh unto me, the same is my church.
-
-68 Whosoever declareth more or less than this, the same is not of me, but is against me; therefore he is not of my church.
-
-69 And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them.</td>
+<td><p>67 Behold, this is my doctrine—whosoever repenteth and cometh unto me, the same is my church.</p>
+<p>68 Whosoever declareth more or less than this, the same is not of me, but is against me; therefore he is not of my church.</p>
+<p>69 And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them.</p></td>
 <td>Jesus gives his own definition of "church."</td>
 </tr>
 <tr>
