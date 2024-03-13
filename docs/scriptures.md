@@ -6,6 +6,18 @@
 </tr>
 
 <tr>
+    <td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3.33?lang=eng#p32">Hel 3:33</a></td><td>there was peace also, save it were the pride which began to enter into the church—not into the church of God, but into the hearts of the people who aprofessed to belong to the church of Gode</td><td>Note the distinction between the formal organization that's visible to society, and the organization that reflects the true alignments of people's hearts.</td>
+</tr>
+
+<tr>
+    <td><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1.1?lang=eng">4 Ne 1:1</a></td>
+    <td>the disciples of Jesus had formed a church of Christ in all the lands round about.</td>
+    <td><p>With a modern, global mindset, we tend to think of "church" as a global thing. However, in <cite>The Book of Mormon</cite>, although there are usages of "church" that clearly have this meaning (see <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/1.3?lang=eng#p2">Alma 1:3</a>, <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/4.4-6?lang=eng#p3">Alma 4:4-6</a>, <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/3.24-26?lang=eng#p23">Hel 3:24-26</a> for example), churches were clearly experienced mostly as a local phenomenon. There wasn't an easy way to stitch together the local units into something larger. Thus we see Alma in <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/6.1-8?lang=eng">Alma 6</a>, doing things for the church at Zarahemla, and then for the church in the land of Gideon. The same is true in the New Testament, where John wrote to "the seven churches in Asia" (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/rev/1.11?lang=eng#p10">Rev 1:11</a>), and the writer of Acts speaks of "the church at Antioch" (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/acts/13.1?lang=eng">Acts 13:1</a>).</p>
+    <p>A possible point to ponder: When we say "the church is true", how would we feel differently if we meant "the ward or stake I live in is true"? And when Nephi condemns churches for worldliness, priestcraft, and pride, could that apply or not apply in different degrees, depending on which local congregation we're talking about?</p>
+    </td>
+</tr>
+
+<tr>
     <td>
     <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26.20-21,29-31?lang=eng#p19">2 Ne 26:20-21, 29-31</a>
     </td>
